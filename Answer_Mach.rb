@@ -5,4 +5,4 @@ puts "Beep!"
 message = gets.chomp
 puts ""
 puts ""
-puts "You said" + message
+puts "You said " + message
